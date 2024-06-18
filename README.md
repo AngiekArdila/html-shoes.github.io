@@ -23,5 +23,6 @@ The website is meticulously crafted to facilitate effortless navigation through 
 - **AOS Library**: Implements smooth scroll animations, enriching the browsing experience with subtle visual cues.
 
 ## Hope you like my website 💎💎
+Thanks 
 
 
