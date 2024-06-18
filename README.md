@@ -24,7 +24,4 @@ The website is meticulously crafted to facilitate effortless navigation through 
 
 ## Hope you like my website 💎💎
 
-## Usage
 
-To view the project locally:
-1. Clone the repository: `git clone https://github.com/y
