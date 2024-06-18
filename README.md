@@ -22,6 +22,8 @@ The website is meticulously crafted to facilitate effortless navigation through 
 - **Font Awesome**: Utilized for scalable vector icons, enhancing visual fidelity and accessibility.
 - **AOS Library**: Implements smooth scroll animations, enriching the browsing experience with subtle visual cues.
 
+## Hope you like my website 💎💎
+
 ## Usage
 
 To view the project locally:
